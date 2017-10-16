@@ -3,6 +3,24 @@
   
     
     <entry>
+      <title><![CDATA[web基础知识]]></title>
+      <url>/2017/10/16/web%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</url>
+      <content type="html"><![CDATA[<h3 id="web发展史"><a href="#web发展史" class="headerlink" title="web发展史"></a>web发展史</h3><p>w3&gt;&gt;Web发展史：Mosaic 1993年–Spy Glass公司–Netscape(网景)–Microsoft(比尔盖茨)–IE；<br>JavaScript–Netscape Navigator浏览器第一次出现1996年，作者Brendan Eich;<br>浏览器的基本组成部分：外核、内核 （Rendering Engine）；<br>内核：1.渲染引擎（处理HTML+CSS）；2.JS引擎(处理JS)；3.其他部分<br>// 浏览器快慢大部分指得是JavaScript引擎的渲染速度（跑分测试）；</p>
+<p>2001年发布ie6,首次实现对js引擎的优化和分离（可以跑上万行代码）；<br>2008年Google发布最新浏览器Chrome，采用优化后的JS引擎，代号V8,能把JS代码直接转化为机械码（01010101…），速度快;chrome是运行、渲染最快的浏览器；<br>后来Firefox也推出了强大功能的JS引擎，Firefox3.5 TraceMonkey(对频繁执行的代码做了路径优化)；Firefox4.0 JeagerMonkey引擎;</p>
+<p>常见主流浏览器内核：<br>Chrome—-Webkit(和Apple共同开发)-&gt;Blink；       JS引擎—V8；<br>Mozilla Firefox—-Gecko；                                    JS引擎— SpiderMonkey（1.0-3.0）/ TraceMonkey（3.5-3.6）/ JaegerMonkey（4.0-）；<br>IE/Edge(win10)—-Trident；                                   JS引擎—EdgeJScript（IE3.0-IE8.0） / Chakra（IE9+之后，查克拉)；<br>Safari—-Webkit；                                                 JS引擎— Nitro（4-）;<br>Opera—-Presto-&gt;Blink；                                      JS引擎— Linear A（4.0-6.1）/ Linear B（7.0-9.2）/ Futhark（9.5-10.2）/ Carakan（10.5-）；</p>
+<p><strong><em>浏览器内核科普  <a href="http://blog.csdn.net/mr_gly/article/details/50393127" target="_blank" rel="external">http://blog.csdn.net/mr_gly/article/details/50393127</a></em></strong><br><strong><em>浏览器引擎功能<a href="http://www.iplaysoft.com/browsers-engine.html" target="_blank" rel="external">http://www.iplaysoft.com/browsers-engine.html</a></em></strong><br><strong><em>各主流浏览器内核及JS引擎<a href="http://www.php.cn/js-tutorial-354085.html" target="_blank" rel="external">http://www.php.cn/js-tutorial-354085.html</a></em></strong></p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> web基础 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
       <title><![CDATA[Markdown语法]]></title>
       <url>/2017/10/16/Markdown%E8%AF%AD%E6%B3%95/</url>
       <content type="html"><![CDATA[<h3 id="一门轻量级“标记语言”，适用于博客文章"><a href="#一门轻量级“标记语言”，适用于博客文章" class="headerlink" title="一门轻量级“标记语言”，适用于博客文章"></a>一门轻量级“标记语言”，适用于博客文章</h3>]]></content>
@@ -13,14 +31,6 @@
             <tag> abstract </tag>
             
         </tags>
-        
-    </entry>
-    
-    <entry>
-      <title><![CDATA[第一篇博客]]></title>
-      <url>/2017/08/07/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-      <content type="html"><![CDATA[<h1 id="demo"><a href="#demo" class="headerlink" title="demo"></a>demo</h1><h2 id="hello-blog"><a href="#hello-blog" class="headerlink" title="hello blog"></a>hello blog</h2>]]></content>
-      
         
     </entry>
     
